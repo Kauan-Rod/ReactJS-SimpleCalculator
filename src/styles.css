@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
 *, *::before, *::after {
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 500;
 }
 
 body {
     margin: 0;
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: linear-gradient(to right, #5e2f85, #2b7683);
 }
 
 .calculator-grid {
@@ -21,7 +26,7 @@ body {
     border: 1px solid white;
     outline: none;
     background-color: rgba(255, 255, 255, 0.75);
-
+    transition: all 0.2s ease;
 }
 
 .calculator-grid > button:hover {
@@ -29,7 +34,8 @@ body {
 }
 
 .calculator-grid > button:active {
-    background-color: rgba(230, 230, 230, 0.9);
+    background-color: rgba(70, 37, 122, 0.9);
+    color: azure;
 }
 
 .span-two {
@@ -51,10 +57,10 @@ body {
 
 .output .previous-operand {
     color: rgba(255, 255, 255, 0.75);
-    font-size:  1.5rem;
+    font-size:  1.2rem;
 }
 
 .output .current-operand {
     color: white;
-    font-size:  2.5rem;
+    font-size:  2.0rem;
 }
