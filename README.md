@@ -10,5 +10,3 @@
 - O projeto foi estilizado com CSS puro e o resultado foi bem satisfatório.
 
 ![calculatorGif](https://user-images.githubusercontent.com/92753628/159819138-6d415ffa-139a-4317-acb8-ff1d01ccf1b8.gif)
-
-![calculator](https://user-images.githubusercontent.com/92753628/159818265-a11e1a74-91a2-4437-8f14-1596fa6d2afb.png)
