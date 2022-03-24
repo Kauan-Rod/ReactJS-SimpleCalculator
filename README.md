@@ -8,3 +8,5 @@
 - O useReducer faz a gestão dos states e renderiza direto nos componentes sempre que ocorre alguma alteração.
 
 - O projeto foi estilizado com CSS puro e o resultado foi bem satisfatório.
+
+![calculator](https://user-images.githubusercontent.com/92753628/159818265-a11e1a74-91a2-4437-8f14-1596fa6d2afb.png)
